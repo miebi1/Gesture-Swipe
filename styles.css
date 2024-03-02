@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #FFF7F1;
+  }
+  
+  .box {
+    width: 15rem;
+    height: 15rem;
+    margin: 10px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    background-color: #030637;
+    font-size: 1.3em;
+    /* border: 2px solid #333; */
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+ border-radius: 10px;
+  }
+  
+ 
